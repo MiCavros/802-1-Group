@@ -1,10 +1,10 @@
 Ctrl-Alt-Elite
 
 Availability for meeting expectations
-  
+  We will meet Wednesday 4:15 - 5pm
 
 Response time to communication expectations
-  During the week: same day response
+  During the week: same-day response
   Weekend: 1-2 day response
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
   Someone has completed it, two people have checked it over, it has been merged to the main branch, and it works.  
@@ -12,6 +12,7 @@ Definition of done: when is a task complete? (hint: "I'm done with that but I di
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
   if you adopt such a policy during the initial meeting, put it here
+Meet once per week as a group in person, have smaller calls/meetings when possible
 Procedure for handling a member who is not meeting expectations
   must include at least 3 actions before involving the instructor
 Signatures: each member must sign their name by typing their name at the bottom of the document.
