@@ -1,8 +1,14 @@
-<group name>
+Ctrl-Alt-Elite
 
 Availability for meeting expectations
+  
+
 Response time to communication expectations
+  During the week: same day response
+  Weekend: 1-2 day response
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+  Someone has completed it, two people have checked it over, it has been merged to the main branch, and it works.  
+
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
   if you adopt such a policy during the initial meeting, put it here
